@@ -12,3 +12,12 @@ for(let i=0 ; i<panier.length ; i++){
 console.log("Total du panier : ", somme);
 console.log("Nombre d'articles chers : " , chers );
 console.log("Montant des articles chers : ",Montant);
+
+// let mots = ["chat", "ordinateur", "table", "programmation", "js"];
+// let motsLongs = 0 ;
+// for (let i = 0 ;i<mots.length;i++){
+//     if(mots[i].length > 5){
+//         motsLongs=motsLongs+1;
+//     }
+// }
+// console.log(motsLongs);
