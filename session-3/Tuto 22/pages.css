@@ -1,0 +1,17 @@
+/* css/pages.css */
+.conteneur-articles {
+    max-width: 1200px;
+    /* La marge "auto" à gauche et à droite centre l'élément */
+    margin: 0 auto; 
+}
+.carte-article {
+    width: 300px;
+    background: #f9fafb;
+    border: 2px solid #e5e7eb;
+}
+.carte-contenu {
+    padding: 30px;
+}
+* {
+    box-sizing: border-box;
+}
